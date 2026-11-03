@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript/article."
+title: "Analytical code for spatiotemporal clustering of Brazilian ethanol road-freight prices"
+type: software
+authors:
+  - family-names: "Boldarini"
+    given-names: "Giovanna Nanzeri"
+  - family-names: "Tosi"
+    given-names: "Sarah Barbosa"
+  - family-names: "da Silva"
+    given-names: "Roberto Fray"
+  - family-names: "Péra"
+    given-names: "Thiago Guilherme"
+  - family-names: "de Souza Lima"
+    given-names: "Roberto Arruda"
+version: 1.0.0
+date-released: 2026-11-03
+keywords:
+  - ethanol
+  - road freight
+  - sustainable logistics
+  - time-series clustering
+  - DTW
+  - spatial analysis
+  - Brazil
